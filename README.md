@@ -2,7 +2,7 @@
 # EX01 Developing a Simple Webserver
 ## Date:
 
-## AIM:
+## AIM:To develop a simple webserver to serve html pages and display
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
 
 ## DESIGN STEPS:
@@ -44,5 +44,5 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 
-## RESULT:
+## RESULT:The simple webserver is executed successfully.
 The program for implementing simple webserver is executed successfully.
