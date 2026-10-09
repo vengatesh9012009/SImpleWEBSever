@@ -39,7 +39,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ## PROGRAM:
 
 
-## OUTPUT:
+## OUTPUT:<img width="697" height="419" alt="{78389ECD-559E-4AB5-A565-3AF2E1119101}" src="https://github.com/user-attachments/assets/acdb24fa-943e-4a94-a3d5-1caf3c247183" />
+
 
 
 ## RESULT:
